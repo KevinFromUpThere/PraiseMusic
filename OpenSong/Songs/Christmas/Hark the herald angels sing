@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Hark the herald angels sing</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>;CAPO 1
+
+[V1]
+. D                      A
+ Hark the herald angels sing
+.  D    G      D   A    D
+ "Glory to the new born King
+.                           E
+ Peace on earth and mercy mild
+.A                 E   A
+ God and sinners reconciled"
+. D            G       A       
+ Joyful all ye nations rise
+. D               G       A      
+ Join the triumph of the skies
+.  G      (D) Em     D  Em
+ With angelic host proclaim
+. A         D           A  D
+ "Christ is born in Bethlehem"
+.  G         (D) Em  D   Em
+ Hark the herald angels sing,
+.A     D       D   A     D
+ "Glory to the new born King"
+---
+[V2]
+. D                         A
+ Christ, by highest heaven adored;
+. D         G   D   A   D
+ Christ the everlasting Lord;
+.                         E
+ Late in time behold him come,
+.A                 E        A
+ Offspring of the favoured one.
+. D                   G        A     
+ Veiled in flesh, the Godhead see;
+.D                 G   A   
+ Hail the incarnate Diety
+.G              D    Em  D    Em
+ Pleased as man with men to dwell,
+.A      D       A  D
+ Jesus, our Immanuel
+.  G         (D) Em D    Em
+ Hark the herald angels sing,
+.A     D       D   A     D
+ "Glory to the new born King"
+
+
+[V3]
+. D                              A
+ Hail! the heaven-born Prince of Peace.
+.D        G      D    A   D
+ Hail the son of Righteousness
+.                         E
+ Light and life to all He brings,
+.A                E         A
+ Ris'n with healing in His wings
+.D                G      A   
+ Mild He lays His glory by,
+.D                G         A    
+ Born that man no more may die
+.G             D   Em       Em
+ Born to raise the sons of earth,
+.A        D          A    D
+ Born to Give them second birth
+.  G         D   Em D   Em
+ Hark the herald angels sing,
+.A     D       D   A     D
+ "Glory to the new born King"</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
