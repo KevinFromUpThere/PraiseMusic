@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>The First Noel</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>;CAPO 4
+
+[V1]
+.    G        D      C          G
+ The First Noel, the Angels did say
+.       G            D            C              G
+ Was to certain poor shepherds in fields as they lay
+.   G            D        C             G
+ In fields where they lay a-keeping their sheep
+.     G             D          C      G
+ On a cold winter's night that was so deep.
+.  G     D     C     G    D
+ Noel, Noel, Noel, Noel
+.G           D       C  G
+ Born is the King of Israel!
+
+[V2]
+.    G        D      C          G
+ Then let us all with one accord
+.       G     D      C        G
+ Sing praises to our heavenly Lord
+.   G            D        C             G
+ That hath made Heaven and earth of nought
+.     G       D        C         G
+ And with his blood mankind hath bought.
+.  G     D     C     G     D
+ Noel, Noel, Noel, Noel
+.G           D       C  G
+ Born is the King of Israel!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

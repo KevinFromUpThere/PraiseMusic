@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>To be in Your presence</title>
+  <author>Noel Richards</author>
+  <copyright>1991 Kingsway's Thankyou Music</copyright>
+  <presentation></presentation>
+  <ccli>918122</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1>185</user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.D             G/B  A/C# D              G/B  A/C#
+ To be in Your presence, to sit at Your feet,
+.D                  G/B    A/C# D                G/B  A/C#
+ Where Your love surrounds me,  and makes me complete.
+
+[C]
+.D            G6/B    A                  D    D/C
+ This is my desire, O Lord, this is my desire.
+.             G6/B    A                  D
+ This is my desire, O Lord, this is my desire.
+
+[V2]
+.D               G/B  A/C# D           G/B  A/C#
+ To rest in Your presence, not rushing away,
+.D               G/B  A/C# D            G/B  A/C#
+ To cherish each moment,   here I would stay.</lyrics>
+  <hymn_number></hymn_number>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
