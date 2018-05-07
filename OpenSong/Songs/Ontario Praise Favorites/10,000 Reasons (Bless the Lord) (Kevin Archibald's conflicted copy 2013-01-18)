@@ -22,7 +22,7 @@
 .E         A          E      B    C#m    A            E    B
  Bless the Lord, O my soul , O my soul , Worship His holy name
 .          A       C#m    A B  C#m         A             B    E
- Sing like never before , 0 my soul , I'll worship Your holy name
+ Sing like never before , O my soul , I'll worship Your holy name
 
 [V1]
 .    A         E          B       C#m
@@ -53,4 +53,7 @@
 .A                  E         B        C#m (playout)
  Still my soul will sing Your praise unend_ing
 .A             E                  B    E (playout)
-  Ten thousand years and then for-ever-more</lyrics></song>
+  Ten thousand years and then for-ever-more</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
