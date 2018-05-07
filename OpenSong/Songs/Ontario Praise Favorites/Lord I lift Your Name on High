@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Lord I lift Your Name on High</title>
-  <author></author>
-  <copyright></copyright>
-  <hymn_number></hymn_number>
-  <presentation>V1 C V2 C2 V1 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <title>Lord I Lift Your Name On High</title>
+  <author>Rick Founds</author>
+  <copyright>1989 Maranatha! Music</copyright>
+  <ccli>117947</ccli>
+  <theme>Christ: Victory; Worship: Declaration; </theme>
   <lyrics>[V1]
 .G       C                 D    C (D)
  Lord, I lift Your Name on high,
@@ -63,6 +52,17 @@
 .G    C         D         C (D)       G 
  O my God, this love, how can it  be?
 </lyrics>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C2 C</presentation>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <tempo></tempo>
+  <time_sig></time_sig>
   <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
