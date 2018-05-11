@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>278 TRUST AND OBEY</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>278 TRUST AND OBEY</title>
+  <lyrics>;Chorus to be sung at end of hymn
+[V1]
  278 TRUST AND OBEY
  WHEN we walk with the Lord
  In the light of His word,
@@ -37,26 +38,27 @@
  What He says we will do,
  Where He sends we will go,
  Never fear, only trust and obey.
- Chorus to be sung at end of hymn:
+
+;Chorus to be sung at end of hymn
+[C]
  Trust and obey, for there's no other way
  To be happy in Jesus, but to trust and obey.
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>278</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>278 TRUST AND OBEY</key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>278</hymn_number>
+  <presentation>V1 V2 V3 V4 V5 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>278 TRUST AND OBEY</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-
