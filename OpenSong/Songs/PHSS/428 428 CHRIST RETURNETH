@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>428 CHRIST RETURNETH </title>
-<lyrics>[V1]
- 428 CHRIST RETURNETH 
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>428 CHRIST RETURNETH </title>
+  <lyrics>[V1]
  IT may be at morn, when the day is awaking,
  When sunlight through darkness and shadow is breaking,
  Christ Jesus will come in the fulness of glory, 
  To take from the world His own.
+[C]
  O Lord Jesus, how long ere we shout the glad song? 
  "Christ returneth! Hallelujah!
 [V2]
@@ -20,22 +20,21 @@
  Caught up through the clouds with our Lord into glory,
  When Christ shall return for His own!
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>428</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>428 CHRIST RETURNETH </key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>428</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>428 CHRIST RETURNETH </key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-

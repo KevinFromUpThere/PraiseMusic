@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>276 . FLAVIAN </title>
-<lyrics>[V1]
- 276 . FLAVIAN 
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>276 . FLAVIAN </title>
+  <lyrics>[V1]
  WALK in the light, so shalt thou know 
  That fellowship of love
  His Spirit only can bestow,
@@ -33,22 +32,21 @@
  For God in grace shall dwell in thee,
  And God Himself is light.
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>276</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>276 . FLAVIAN </key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>276</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>276 . FLAVIAN </key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-

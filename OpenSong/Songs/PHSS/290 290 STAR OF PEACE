@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>290 STAR OF PEACE</title>
-<lyrics>[V1]
- 290 STAR OF PEACE
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>290 STAR OF PEACE</title>
+  <lyrics>[V1]
  Jesus Christ, Thou King of glory,
  Born a Saviour, Prince to be,
  While the angel hosts adore Thee,
@@ -30,22 +29,21 @@
  Thou hast read our spirits' yearning,
  Praise, praise to Thee!
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>290</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>290 STAR OF PEACE</key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>290</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>290 STAR OF PEACE</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-

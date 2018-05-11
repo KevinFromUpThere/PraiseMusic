@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>414 RIVAULX</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>414 RIVAULX</title>
+  <lyrics>[V1]
  THIS is the day the Lord has made, 
  In it He has His grace displayed. 
  'Tis ours to sing in holy lays,
@@ -31,25 +31,22 @@
  When we shall leave these clods of clay; 
  With those in Christ raised from the dead, 
  We'll join with joy our glorious Head.
-[V17]
- The Lord's Future Purposes
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>414</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>THIS is the day the Lord has made, </key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>414</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>THIS is the day the Lord has made, </key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-

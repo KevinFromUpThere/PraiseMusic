@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>424 ME TA RASSESTHO</title>
-<lyrics>[V1]
- 424 ME TA RASSESTHO
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>424 LET not your heart be troubled, </title>
+  <lyrics>[V1]
  "LET not your heart be troubled, 
  Nor let it be afraid;
  Believe in God, My Father, 
@@ -38,22 +37,21 @@
  To Christ, our great Redeemer, 
  "Come quickly, blessed Lord."
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>424</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>424 ME TA RASSESTHO</key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>424</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>424 ME TA RASSESTHO</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-
