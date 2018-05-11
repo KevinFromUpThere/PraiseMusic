@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>452 TO BE THERE</title>
-<lyrics>[V1]
- 452 TO BE THERE
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>452 TO BE THERE</title>
+  <lyrics>[V1]
  WE sing of the realms of the blest, 
  That country so bright and so fair, 
  And oft are its glories confessed; 
@@ -23,22 +22,21 @@
  And shortly we also shall know,
  And feel, what it is to be there.
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>452</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>452 TO BE THERE</key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>452</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>452 TO BE THERE</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-

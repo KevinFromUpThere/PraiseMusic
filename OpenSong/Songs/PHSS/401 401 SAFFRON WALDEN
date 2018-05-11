@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>401 SAFFRON WALDEN</title>
-<lyrics>[V1]
- 401 SAFFRON WALDEN
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>401 SAFFRON WALDEN</title>
+  <lyrics>[V1]
  JUST as I am, Thine own to be, 
  Friend of the young, who lovest me, 
  To consecrate myself to Thee,
@@ -23,22 +22,21 @@
  For truth and righteousness and Thee, 
  Lord of my life, I come.
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>401</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>401 SAFFRON WALDEN</key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>401</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>401 SAFFRON WALDEN</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-

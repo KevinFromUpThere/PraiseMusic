@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>153 MARCHING TO ZION</title>
-<lyrics>[V1]
- 153 MARCHING TO ZION
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>153 MARCHING TO ZION</title>
+  <lyrics>[V1]
  COME, ye that love the Lord,
  And let your joys be known;
  Join in a song with sweet accord,
  And thus surround the throne.
+[C]
  We're marching to Zion, beautiful, beautiful Zion!
  We're marching upward to Zion,
  The beautiful city of God.
@@ -26,22 +26,21 @@
  We're marching through this weary land
  To fairer worlds on high.
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>153</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>153 MARCHING TO ZION</key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>153</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>153 MARCHING TO ZION</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-

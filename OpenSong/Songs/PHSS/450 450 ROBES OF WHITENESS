@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>450 ROBES OF WHITENESS</title>
-<lyrics>[V1]
- 450 ROBES OF WHITENESS
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>450 ROBES OF WHITENESS</title>
+  <lyrics>[V1]
  OH, for the robes of whiteness!
  Oh, for the tearless eyes!
  Oh, for the glorious brightness
@@ -30,22 +29,21 @@
  That all my love might centre
  On Thee, and Thee alone.
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>450</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>450 ROBES OF WHITENESS</key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>450</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>450 ROBES OF WHITENESS</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-

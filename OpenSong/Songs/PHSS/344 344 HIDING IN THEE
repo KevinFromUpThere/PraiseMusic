@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>344 HIDING IN THEE</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>344 HIDING IN THEE</title>
+  <lyrics>[V1]
  344 HIDING IN THEE
  THROUGH the dark path of sorrow
  Which Jesus has trod, 
@@ -46,24 +46,23 @@
  Be gathered to Thee,
  Let the groaning creation 
  From sorrow be free.
- The last syllable of verse 3, line 7, and of verse 4, line 3, are to be sung to the first note of the following line.
+;The last syllable of verse 3, line 7, and of verse 4, line 3, are to be sung to the first note of the following line.
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>344</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>344 HIDING IN THEE</key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>344</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>344 HIDING IN THEE</key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-
