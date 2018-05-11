@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
- <song> 
-<title>42 DARWALLS</title>
-<lyrics>[V1]
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>42 DARWALLS</title>
+  <lyrics>[V1]
  THE happy morn is come; 
  Triumphant o'er the grave 
  The Saviour leaves the tomb, 
@@ -10,10 +10,15 @@
  Since Jesus liveth, who was dead.
 [V2]
  Who now accuseth them
- For whom the Surety died? Or who shall those condemn Whom God hath justified? Captivity is captive led,
+ For whom the Surety died? 
+ Or who shall those condemn Whom God hath justified? 
+ Captivity is captive led,
  Since Jesus liveth, who was dead.
 [V3]
- Christ hath the ransom paid, The glorious work is done; On Him our help was laid, The victory is won.
+ Christ hath the ransom paid, 
+ The glorious work is done; 
+ On Him our help was laid, 
+ The victory is won.
  Captivity is captive led,
  Since Jesus liveth, who was dead.
 [V4]
@@ -24,22 +29,21 @@
  Captivity is captive led,
  Since Jesus liveth, who was dead.
 </lyrics>
-                        <author></author>
-                        <copyright></copyright>
-<hymn_number>42</hymn_number>
-<presentation></presentation>
-                        <ccli></ccli>
-                        <capo print="false"></capo>
-                        <key></key>
-                        <aka></aka>
-<key_line>THE happy morn is come </key_line>
-<user1></user1>
-                        <user2></user2>
-                        <user3></user3>
-                        <theme></theme>
-                        <linked_songs/>
-                        <tempo></tempo>
-                        <time_sig></time_sig>
-<backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number>42</hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line>THE happy morn is come </key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
-
